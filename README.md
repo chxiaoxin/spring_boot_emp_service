@@ -1,4 +1,4 @@
-# full-stack-recruitment-test
+# spring_boot_emp_management_system
 Basic project structure for full stack web application
 
 Client implementation:
